@@ -193,3 +193,12 @@ top:5px;
     column-count:5;
   }
 }
+
+
+/* listing */
+
+.listing{
+  padding: 1em;
+  display: block;
+  background: #e9e9e9;
+}
