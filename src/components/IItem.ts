@@ -5,7 +5,8 @@ export default interface IItem {
   url: string;
   title: string;
   currency_code: string;
-  price: number;
+  price: string;
   quantity: number;
+  state: string;
   MainImage: IMainImage;
 }
